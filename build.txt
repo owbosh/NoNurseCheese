@@ -1,0 +1,4 @@
+displayName = No Nurse Cheese
+author = owbosh
+version = 1.0.0
+homepage = https://github.com/owbosh/NoNurseCheese

@@ -1,0 +1,1 @@
+Very simple mod that insta-kills the player if they try to heal at the Nurse during a boss fight.
